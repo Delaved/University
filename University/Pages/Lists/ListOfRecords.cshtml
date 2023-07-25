@@ -1,0 +1,18 @@
+﻿@page
+@model University.Pages.Lists.ListOfRecordModel
+@{
+}
+
+@{
+    int i = 1;
+}
+
+<h1>Records</h1>
+<hr />
+<div>
+    @foreach (var record in Model.records)
+    {
+        <p>@i.@record.Student.Name @record.Student.Name @record.Student.LastName @record.Student.Patronymic, course - @record.Course.Name, specialization - @record.Specialization.Name</p>
+        i++;
+    }
+</div>

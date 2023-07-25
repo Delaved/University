@@ -1,0 +1,47 @@
+﻿@page
+@model University.Pages.Change.ChangeStudentModel
+@{
+}
+
+
+<h1>Change</h1>
+<hr />
+<div class="row">
+    <div class="col-6">
+
+        <div class="card">
+            <div class="card-header">
+                <h5>Change a Student</h5>
+            </div>
+            <div class="card-body">
+                <form method="post">
+                    <div class="mb-3">
+                        <button name="action" value="Choose student" type="submit" class="btn btn-primary">Choose student</button>
+                    </div>     
+                    <div class="mb-3">
+                         <input type="hidden" asp-for=student.Id/>
+                        <label class="form-label">Name</label>
+                        <input asp-for=student.Name type="text" class="form-control"> <!--model.Name-->
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Last name</label>
+                        <input asp-for=student.LastName type="text" class="form-control"> 
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Patronymic</label>
+                        <input asp-for=student.Patronymic type="text" class="form-control">
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Age</label>
+                        <input asp-for=student.Age type="number" class="form-control">
+                    </div>
+                    <div class="mb-3">
+                        <button name="action" value="Change student" type="submit" class="btn btn-primary">Save</button>
+                    </div>
+                </form>
+            </div>
+            <div class="card-footer">
+            </div>
+        </div>
+    </div>
+</div>

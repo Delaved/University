@@ -1,0 +1,19 @@
+﻿@page
+@model University.Pages.Lists.ListOfSpecializationsModel
+@{
+}
+
+
+@{
+    int i = 1;
+}
+
+<h1>Specializations</h1>
+<hr />
+<div>
+    @foreach (var specialization in Model.specializations)
+    {
+        <p>@i.@specialization.Name</p>
+        i++;
+    }
+</div>

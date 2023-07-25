@@ -1,0 +1,19 @@
+﻿@page
+@model University.Pages.Delete.DeleteCourseModel
+@{
+}
+
+
+<h1>Click on the course you want to delete</h1>
+<hr />
+<div>
+    @foreach (var course in Model.courses)
+    {
+            <form method="post" >
+            <input type="hidden" name="id" value="@course.Id" />
+            <button type="submit">@course.Name</button>
+            </form>
+            <br/>
+    }
+</div>
+

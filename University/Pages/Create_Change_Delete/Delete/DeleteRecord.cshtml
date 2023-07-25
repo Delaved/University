@@ -1,0 +1,18 @@
+﻿@page
+@model University.Pages.Create_Change_Delete.Delete.DeleteRecordModel
+@{
+}
+
+<h1>Click on the record  you want to delete</h1>
+<hr />
+<div>
+    @foreach (var record in Model.records)
+    {
+                <form method="post" >
+                    <input type="hidden" name="id" value="@record.Id" />
+                    <button type="submit">DELETE record - @record.Student.Name @record.Student.LastName @record.Student.Patronymic @record.Course.Name @record.Specialization.Name</button>
+                </form>
+                <br/>
+    }
+</div>
+

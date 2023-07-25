@@ -1,0 +1,18 @@
+﻿@page
+@model University.Pages.Lists.ListOfStudentModel
+@{
+}
+
+@{
+    int i = 1;
+}
+
+<h1>Students</h1>
+<hr />
+<div>
+    @foreach (var student in Model.students)
+    {
+        <p>@i.@student.Name @student.LastName @student.Patronymic</p>
+        i++;
+    }
+</div>

@@ -1,0 +1,34 @@
+﻿@page
+@model University.Pages.Change.ChangeSpecializationModel
+@{
+}
+
+<h1>Change</h1>
+<hr />
+<div class="row">
+    <div class="col-6">
+
+        <div class="card">
+            <div class="card-header">
+                <h5>Change Specialization</h5>
+            </div>
+            <div class="card-body">
+                <form method="post">
+                    <div class="mb-3">
+                        <button name="action" value="Choose specialization" type="submit" class="btn btn-primary">Choose specialization</button>
+                    </div>
+                    <div class="mb-3">
+                         <input type="hidden" asp-for=specialization.Id/>
+                        <label class="form-label">Specialization name</label>
+                        <input asp-for=specialization.Name type="text" class="form-control"> <!--model.Name-->
+                    </div>
+                    <div class="mb-3">
+                        <button name="action" value="Save specialization" type="submit" class="btn btn-primary">Save</button>
+                    </div>
+                </form>
+            </div>
+            <div class="card-footer">
+            </div>
+        </div>
+    </div>
+</div>

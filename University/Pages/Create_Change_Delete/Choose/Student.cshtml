@@ -1,0 +1,22 @@
+﻿@page
+@model University.Pages.Choose.StudentModel
+@{
+}
+
+
+
+<h1>Choose student</h1>
+<hr />
+<div>
+    @foreach (var student in Model.students)
+    {
+        <!-- <a href="#" onclick="getStudent(@student.Id)">@student.Name @student.LastName @student.Patronymic</a> --> 
+        <form method="post" >
+            <input type="hidden" name="id" value="@student.Id" />
+            <button type="submit">@student.Name @student.LastName @student.Patronymic</button>
+        </form>
+        <br/>
+    }
+</div>
+
+<script>

@@ -1,0 +1,133 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = University
+build_property.RootNamespace = University
+build_property.ProjectDir = E:\C#\my pc\University\University\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\C#\my pc\University\University
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/C\#/my pc/University/University/Pages/Create_Change_Delete/Change/ChangeCourse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlX0NoYW5nZV9EZWxldGVcQ2hhbmdlXENoYW5nZUNvdXJzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/my pc/University/University/Pages/Create_Change_Delete/Change/ChangeRecord.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlX0NoYW5nZV9EZWxldGVcQ2hhbmdlXENoYW5nZVJlY29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/my pc/University/University/Pages/Create_Change_Delete/Change/ChangeSpecialization.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlX0NoYW5nZV9EZWxldGVcQ2hhbmdlXENoYW5nZVNwZWNpYWxpemF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/my pc/University/University/Pages/Create_Change_Delete/Change/ChangeStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlX0NoYW5nZV9EZWxldGVcQ2hhbmdlXENoYW5nZVN0dWRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/my pc/University/University/Pages/Create_Change_Delete/Choose/Course.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlX0NoYW5nZV9EZWxldGVcQ2hvb3NlXENvdXJzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/my pc/University/University/Pages/Create_Change_Delete/Choose/Record.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlX0NoYW5nZV9EZWxldGVcQ2hvb3NlXFJlY29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/my pc/University/University/Pages/Create_Change_Delete/Choose/Specialization.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlX0NoYW5nZV9EZWxldGVcQ2hvb3NlXFNwZWNpYWxpemF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/my pc/University/University/Pages/Create_Change_Delete/Choose/Student.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlX0NoYW5nZV9EZWxldGVcQ2hvb3NlXFN0dWRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/my pc/University/University/Pages/Create_Change_Delete/CreateMain.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlX0NoYW5nZV9EZWxldGVcQ3JlYXRlTWFpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/my pc/University/University/Pages/Create_Change_Delete/Create/AddNewStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlX0NoYW5nZV9EZWxldGVcQ3JlYXRlXEFkZE5ld1N0dWRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/my pc/University/University/Pages/Create_Change_Delete/Create/CreateCourse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlX0NoYW5nZV9EZWxldGVcQ3JlYXRlXENyZWF0ZUNvdXJzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/my pc/University/University/Pages/Create_Change_Delete/Create/CreateRecord.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlX0NoYW5nZV9EZWxldGVcQ3JlYXRlXENyZWF0ZVJlY29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/my pc/University/University/Pages/Create_Change_Delete/Create/CreateSpecialization.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlX0NoYW5nZV9EZWxldGVcQ3JlYXRlXENyZWF0ZVNwZWNpYWxpemF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/my pc/University/University/Pages/Create_Change_Delete/Delete/DeleteCourse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlX0NoYW5nZV9EZWxldGVcRGVsZXRlXERlbGV0ZUNvdXJzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/my pc/University/University/Pages/Create_Change_Delete/Delete/DeleteRecord.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlX0NoYW5nZV9EZWxldGVcRGVsZXRlXERlbGV0ZVJlY29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/my pc/University/University/Pages/Create_Change_Delete/Delete/DeleteSpecialization.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlX0NoYW5nZV9EZWxldGVcRGVsZXRlXERlbGV0ZVNwZWNpYWxpemF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/my pc/University/University/Pages/Create_Change_Delete/Delete/DeleteStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlX0NoYW5nZV9EZWxldGVcRGVsZXRlXERlbGV0ZVN0dWRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/my pc/University/University/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/my pc/University/University/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/my pc/University/University/Pages/Lists/ListMain.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdHNcTGlzdE1haW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/my pc/University/University/Pages/Lists/ListOfCourses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdHNcTGlzdE9mQ291cnNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/my pc/University/University/Pages/Lists/ListOfRecords.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdHNcTGlzdE9mUmVjb3Jkcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/my pc/University/University/Pages/Lists/ListOfSpecializations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdHNcTGlzdE9mU3BlY2lhbGl6YXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/my pc/University/University/Pages/Lists/ListOfStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdHNcTGlzdE9mU3R1ZGVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/my pc/University/University/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/my pc/University/University/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/my pc/University/University/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/my pc/University/University/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/my pc/University/University/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ts32qznk5w

@@ -1,0 +1,40 @@
+﻿@page
+@model University.Pages.Create.CreateRecordModel
+@{
+}
+
+
+
+<h1>Create</h1>
+<hr />
+<div class="row">
+    <div class="col-6">
+
+        <div class="card">
+            <div class="card-header">
+                <h5>Create Record</h5>
+            </div>
+            <div class="card-body">
+                <form method="post">
+                    <div class="mb-3">
+                        <label class="form-label">Choose student</label>
+                        <input asp-for=record.Student.Name type="text"> <button name="action" value="Choose student" type="submit" class="btn btn-primary">Choose</button> <!--model.Name-->
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Choose course</label>
+                        <input asp-for=record.Course.Name type="text"> <button name="action" value="Choose course" type="submit" class="btn btn-primary">Choose</button>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Choose Specialization</label>
+                        <input asp-for=record.Specialization.Name  type="text"> <button name="action" value="Choose Specialization" type="submit" class="btn btn-primary">Choose</button>  
+                    </div>
+                    <div class="mb-3">
+                        <button name="action" value="Save record" type="submit" class="btn btn-primary">Save</button>
+                    </div>
+                </form>
+            </div>
+            <div class="card-footer">
+            </div>
+        </div>
+    </div>
+</div>

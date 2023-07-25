@@ -1,0 +1,17 @@
+﻿@page
+@model University.Pages.Lists.ListOfCoursetModel
+@{
+}
+@{
+    int i = 1;
+}
+
+<h1>Courses</h1>
+<hr />
+<div>
+    @foreach (var course in Model.courses)
+    {
+        <p>@i.@course.Name</p>
+        i++;
+    }
+</div>

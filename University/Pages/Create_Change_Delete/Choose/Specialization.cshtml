@@ -1,0 +1,18 @@
+﻿@page
+@model University.Pages.Choose.SpecializationModel
+@{
+}
+
+<h1>Choose specialization</h1>
+<hr />
+<div>
+    @foreach (var course in Model.specializations)
+    {
+            <form method="post" >
+            <input type="hidden" name="id" value="@course.Id" />
+            <button type="submit">@course.Name</button>
+            </form>
+            <br/>
+    }
+</div>
+<script>

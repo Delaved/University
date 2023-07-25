@@ -1,0 +1,19 @@
+﻿@page
+@model University.Pages.Delete.DeleteSpecializationModel
+@{
+}
+
+
+<h1>Click on the specialization you want to delete</h1>
+<hr />
+<div>
+    @foreach (var course in Model.specializations)
+    {
+        <form method="post" >
+        <input type="hidden" name="id" value="@course.Id" />
+        <button type="submit">@course.Name</button>
+        </form>
+        <br/>
+    }
+</div>
+
